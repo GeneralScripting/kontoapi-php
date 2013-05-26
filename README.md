@@ -1,4 +1,8 @@
-kontoapi-php
+Konto API PHP library (contributed)
 ============
 
-Konto API PHP library - contributed by @webdevsHub
+Requirements: php5-curl
+
+Author: [webdevsHub](https://github.com/webdevsHub)
+
+License: http://sam.zoy.org/wtfpl/
